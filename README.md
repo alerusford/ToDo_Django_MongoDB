@@ -1,6 +1,6 @@
-# Менеджер задач на Django + semantic-ui
+# Менеджер задач на Django
 
-![Alt text](screen.jpg "title")
+[//]: # (![Alt text]&#40;screen.jpg "title"&#41;)
 <br>
 python3 manage.py runserver
 <br>or<br>
