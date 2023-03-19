@@ -7,3 +7,6 @@ python3 manage.py runserver
 docker build -t todo_app_django:1 .
 <br>
 docker run -d -p 8000:8000 todo_app_django:1
+<br><br>
+astra linux<br>
+uwsgi --ini mysite_uwsgi.conf
